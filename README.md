@@ -10,3 +10,7 @@ Second line
 
 First line with two trailing spaces  
 Second line
+
+There is no[^1] footnote support.
+
+[^1]: not a footnote.

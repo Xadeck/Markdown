@@ -14,3 +14,5 @@ Second line
 There is no[^1] footnote support.
 
 [^1]: not a footnote.
+
+This is an :smiley: emoji.

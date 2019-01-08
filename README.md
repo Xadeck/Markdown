@@ -22,3 +22,9 @@ This is <span>some *text* inside html inline span</span>
 <div>
 This is some *text* in a html block div.
 </div>
+
+<div>
+  
+This is some *text* in a html block div with empty lines around.
+
+</div>

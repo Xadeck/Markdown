@@ -28,3 +28,10 @@ This is some *text* in a html block div.
 This is some *text* in a html block div with empty lines around.
 
 </div>
+
+This is a task list:
+
+- [x] foo
+  - [ ] bar
+  - [x] baz
+- [ ] bim

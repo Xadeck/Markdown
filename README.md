@@ -35,3 +35,5 @@ This is a task list:
   - [ ] bar
   - [x] baz
 - [ ] bim
+
+This is an autolink http://foo.com/abc{% containing a percent.

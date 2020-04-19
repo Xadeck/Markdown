@@ -37,3 +37,7 @@ This is a task list:
 - [ ] bim
 
 This is an autolink http://foo.com/abc{% containing a percent.
+
+```lua random
+--this codeblock has two attributes
+```
